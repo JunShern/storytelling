@@ -1,0 +1,82 @@
+/* Bedtime Histories — night-sky theme */
+
+:root {
+  --night: #0d1022;
+  --night-2: #141833;
+  --night-3: #1c2142;
+  --ink: #e9e2cf;
+  --ink-dim: #a9a493;
+  --gold: #e2b563;
+  --gold-soft: rgba(226, 181, 99, 0.35);
+  --land: #2a3054;
+  --land-hover: #3a4170;
+  --land-active: #6b5a33;
+  --ocean: #0d1022;
+  --line: rgba(233, 226, 207, 0.12);
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background: var(--night);
+  color: var(--ink);
+  font-family: var(--serif);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  height: 100%;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+button {
+  font-family: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+a {
+  color: var(--gold);
+}
+
+::selection {
+  background: var(--gold-soft);
+}
+
+/* Shared soft-glow dot used by map + timeline */
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.85;
+  }
+  50% {
+    opacity: 0.45;
+  }
+}
+
+/* Scrollbars that don't shout */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--night-3) transparent;
+}

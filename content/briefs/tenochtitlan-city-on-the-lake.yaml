@@ -1,0 +1,16 @@
+id: tenochtitlan-city-on-the-lake
+place:
+  name: Tenochtitlan
+  modern_country: Mexico
+  lat: 19.43
+  lng: -99.13
+  highlight: ["484"]
+time:
+  year: 1500
+  display: c. 1500 CE
+  era: Aztec Empire
+event: >
+  Daily life in Tenochtitlan before European contact: the island city on
+  Lake Texcoco, chinampa garden farming, causeways and aqueducts, canoe
+  traffic, the great market of Tlatelolco with cacao beans as money, and
+  schools for every child.

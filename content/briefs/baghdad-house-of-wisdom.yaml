@@ -1,0 +1,16 @@
+id: baghdad-house-of-wisdom
+place:
+  name: Baghdad
+  modern_country: Iraq
+  lat: 33.35
+  lng: 44.42
+  highlight: ["368"]
+time:
+  year: 830
+  display: c. 830 CE
+  era: Islamic Golden Age
+event: >
+  The House of Wisdom under Caliph al-Ma'mun: the translation movement,
+  paper-making, al-Khwarizmi and algebra, the book markets of the Round City,
+  and how knowledge from Greek, Persian, and Indian sources was gathered,
+  translated, and extended.

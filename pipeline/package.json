@@ -1,0 +1,14 @@
+{
+  "name": "bedtime-histories-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Story generation pipeline: brief -> research -> write -> content/stories/*.md",
+  "scripts": {
+    "generate": "node src/generate.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0",
+    "yaml": "^2.5.0"
+  }
+}

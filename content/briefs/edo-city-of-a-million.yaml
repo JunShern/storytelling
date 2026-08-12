@@ -1,0 +1,16 @@
+id: edo-city-of-a-million
+place:
+  name: Edo (Tokyo)
+  modern_country: Japan
+  lat: 35.69
+  lng: 139.69
+  highlight: ["392"]
+time:
+  year: 1700
+  display: c. 1700 CE
+  era: Edo Period
+event: >
+  Genroku-era Edo, possibly the largest city in the world: the sankin-kotai
+  processions, hikeshi firefighters and the "flowers of Edo", terakoya
+  temple schools, ukiyo-e prints, kabuki theater, street food, and a city
+  that recycled nearly everything.
