@@ -19,8 +19,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Enable GitHub Pages (first run only)
+      # Attempts to enable Pages automatically. GitHub does not allow the
+      # default workflow token to do this, so if this is the first run and
+      # Pages was never enabled, flip it once by hand:
+      #   Settings -> Pages -> Source: "GitHub Actions"
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+        continue-on-error: true
         with:
           enablement: true
       - uses: actions/setup-node@v4
