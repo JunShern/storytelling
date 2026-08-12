@@ -1,0 +1,16 @@
+id: london-crystal-palace
+place:
+  name: London
+  modern_country: United Kingdom
+  lat: 51.50
+  lng: -0.17
+  highlight: ["826"]
+time:
+  year: 1851
+  display: 1851 CE
+  era: Victorian Britain
+event: >
+  The Great Exhibition at the Crystal Palace: Joseph Paxton's glass palace
+  in Hyde Park, a hundred thousand exhibits from around the world, shilling
+  days and excursion trains that brought six million visitors, and what a
+  child would have seen inside.

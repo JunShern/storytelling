@@ -1,0 +1,16 @@
+id: timbuktu-golden-crossroads
+place:
+  name: Timbuktu
+  modern_country: Mali
+  lat: 16.77
+  lng: -3.01
+  highlight: ["466"]
+time:
+  year: 1330
+  display: c. 1330 CE
+  era: Mali Empire
+event: >
+  Timbuktu in the era of Mansa Musa: the trans-Saharan salt-and-gold trade,
+  camel caravans from Taghaza, Mansa Musa's famous pilgrimage to Mecca,
+  the building of Djinguereber mosque, and the beginnings of the city's
+  great tradition of books and learning.
