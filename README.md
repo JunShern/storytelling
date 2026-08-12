@@ -78,5 +78,6 @@ The dev server rebuilds the story index automatically when content changes.
 
 ## Deploying
 
-Pushes to `main` deploy to GitHub Pages via `.github/workflows/deploy.yml`.
-(Enable Pages with "GitHub Actions" as the source in repo settings, once.)
+Pushes to `main` deploy automatically to GitHub Pages via
+`.github/workflows/deploy.yml`. Pages is configured with "GitHub Actions"
+as the source, so no further setup is needed.
