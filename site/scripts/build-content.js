@@ -12,6 +12,8 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(here, "..", "..");
 const STORIES_DIR = path.join(ROOT, "content", "stories");
 const OUT_DIR = path.join(ROOT, "site", "public", "data");
+const INTRO_HEADING = "## Before we begin";
+const STORY_HEADING = "## The story";
 const FACTS_HEADING = "## What's true in this story";
 
 function parseStory(file) {
@@ -22,7 +24,7 @@ function parseStory(file) {
   const rest = match[2].trim();
 
   const factsAt = rest.indexOf(FACTS_HEADING);
-  const body = (factsAt === -1 ? rest : rest.slice(0, factsAt)).trim();
+  let body = (factsAt === -1 ? rest : rest.slice(0, factsAt)).trim();
   const facts =
     factsAt === -1
       ? []
@@ -33,7 +35,18 @@ function parseStory(file) {
           .filter((l) => l.startsWith("- "))
           .map((l) => l.slice(2).trim());
 
-  const words = body.split(/\s+/).length;
+  // v2 stories carry a "Before we begin" intro ahead of "The story";
+  // v1 stories have neither heading and the whole body is the story.
+  let intro = "";
+  const storyAt = body.indexOf(STORY_HEADING);
+  if (storyAt !== -1) {
+    const before = body.slice(0, storyAt);
+    const introAt = before.indexOf(INTRO_HEADING);
+    if (introAt !== -1) intro = before.slice(introAt + INTRO_HEADING.length).trim();
+    body = body.slice(storyAt + STORY_HEADING.length).trim();
+  }
+
+  const words = body.split(/\s+/).length + (intro ? intro.split(/\s+/).length : 0);
   return {
     meta: {
       id: meta.id,
@@ -49,6 +62,7 @@ function parseStory(file) {
       title: meta.title,
       place: meta.place,
       time: meta.time,
+      intro,
       body,
       facts,
       sources: meta.sources ?? [],

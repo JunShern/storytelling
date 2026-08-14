@@ -11,67 +11,100 @@ time:
   year: 1700
   display: c. 1700 CE
   era: Edo Period
-event: Genroku-era Edo, possibly the largest city in the world, at the height of the Tokugawa peace.
-reading_time_minutes: 8
+event: Genroku-era Edo, possibly the largest city in the world, on the night of a fire.
+reading_time_minutes: 9
 generation:
   model: claude-fable-5
-  prompts: v1
-  date: 2026-08-12
+  prompts: v2
+  date: 2026-08-14
   method: in-session
 sources:
   - https://www.britannica.com/event/Genroku-period
   - https://en.wikipedia.org/wiki/Edo
   - https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/machi/page3-1.html
+  - https://en.wikipedia.org/wiki/Great_Fire_of_Meireki
+  - https://en.wikipedia.org/wiki/Hikeshi
   - https://en.wikipedia.org/wiki/Tamagawa_Aqueduct
-  - https://en.wikipedia.org/wiki/Terakoya
-  - https://www.nippon.com/en/japan-topics/g00962/
 ---
 
-Three hundred years ago, on the eastern edge of Japan, there was a city so large that nobody in it had ever seen all of it. It was called Edo, and one day it would be called Tokyo — but that comes much later, long after this story ends.
+## Before we begin
 
-In Edo, around the year 1700, there may have lived a million people. A *million*. It was possibly the largest city in the whole world, larger than London, larger than Paris — though of course no one in Edo lost sleep over that, having plenty else to do before breakfast.
+Tonight we're going to Japan, three hundred years ago, to a city called Edo (EH-doh) — the city that is now Tokyo. Around the year 1700 it held about a million people, which may have made it the biggest city on Earth. Some words before we start: the *shogun* (SHOW-gun) was the military ruler of all Japan; the *samurai* (SAM-oo-rye) were the warrior families who served him — though by our story's time, Japan had been at peace so long that most samurai worked at desks. An *apprentice* is a child learning a trade by living and working in a shop. *Soba* (SOH-bah) are buckwheat noodles, slurped loudly, which is the polite way. And one fact the whole story turns on: Edo was built almost entirely of wood and paper — so the thing its people feared most, and were best at fighting, was fire. Ready? Listen for the bell.
 
-One of the million was a boy named Kichi, ten years old, the newest and smallest apprentice at a cloth shop near the great bridge called Nihonbashi. Kichi's day began in the dark, when the head clerk poked him awake. He rolled up his bedding, slid open the heavy rain shutters — *rattle, bang* — swept the street in front of the shop, and sprinkled water on it to lay the dust, as every shop boy on the street was doing at exactly that hour. A thousand brooms, one city, before dawn.
+## The story
 
-Then the city woke up around him, and Edo woke up like an orchestra tuning.
+The fire bell woke Kichi out of a dream about noodles.
 
-*Clack, clack* went wooden sandals on the bridge. *Tofu-o-o-o!* sang the tofu seller. The clam seller had his own song, and the goldfish man his, and the morning-glory man his — every single thing in Edo was sold with its own little tune, so that a blind man could shop by ear. Temple bells counted out the hour. And through it all came the smell of the fish market by the bridge, where boats from the bay unloaded before sunrise the tuna and clams that a million breakfasts required.
+*Kan! Kan! Kan!* — fast and hard from the watchtower, and before his eyes were properly open, the head clerk was standing over him with a lantern, already dressed.
 
-Kichi's master said the city was really two cities. Up on the hills lived the samurai — the warrior families — in the mansions of the great lords. Every lord in Japan was required to keep a house in Edo and live there every other year, traveling in a grand procession of banners and spearmen; when a great lord came down the highway, all traffic stood aside to watch a river of silk and lacquer flow past. That law kept the lords busy, and it filled Edo with samurai — they were fully half the city.
+"Up, boy. Fire in the ward north of the bridge. Wind's from the north."
 
-But the other half — the merchants, the carpenters, the noodle-sellers, the printers, Kichi's half — lived packed together happily and noisily down by the water, in the low town. And the low town, everyone agreed, was where things *happened*.
+Kichi was ten years old, and had been the shop's newest apprentice for exactly one hundred days. He knew what wind from the north meant. Everyone in Edo knew. It meant the fire would walk south. Toward the bridge. Toward the shop.
 
-"The strange thing about the samurai," the head clerk told Kichi, "is how peaceful they are. My grandfather's grandfather knew wars. But there has been no war in all Japan for nearly a hundred years now. So the warriors have become paper-shufflers." He looked left and right and lowered his voice. "And between you and me, boy, in this city the merchants are quietly becoming kings."
+"Is it far?" he asked, scrambling into his jacket.
 
-It was true that everyone in the low town seemed to have money for small pleasures. On his afternoon errands, Kichi ran past theaters hung with banners, where the kabuki actors — the most famous faces in Edo — stormed and wept in makeup like thunderclouds. In the print shops hung pictures of those same actors, stamped from carved woodblocks, cheap enough that even an apprentice could dream of buying one. There were lending libraries that would rent you a storybook for pennies. And on the corner stood the soba stall, where sixteen small coins bought a bowl of buckwheat noodles, slurped standing up, loudly, which is the correct way.
+"Far is nothing," said the clerk, "in a city made of wood."
 
-Kichi could read the storybooks, too — most of his friends could. Children of shopkeepers and carpenters went to little neighborhood schools, often kept at temples, where a teacher taught them to write with brush and ink and to work sums on the abacus. Kichi had gone; now the abacus clicked under his fingers in the shop all day, click click click, like a cricket doing arithmetic.
+The whole household was moving — shutters rattling open, the master calling orders, the cook stacking pots. Kichi had drilled for this, the way every shop child drilled: what to carry, in what order, where to run. He was surprised how calm his hands were. His stomach was another matter.
 
-Two things about his city Kichi knew to respect above all.
+"Ledgers first!" the clerk called. "The books, then the best cloth, then the till. The building can burn — the *accounts* must not."
 
-The first was water. Edo drank from rivers in the far hills, and the water traveled for miles and miles — some of it along a channel dug by two clever brothers half a century before — then ran under the streets through pipes made of wood, hollowed like flutes, until it rose up in neighborhood wells. Around the well each morning, the housewives of Kichi's alley drew their buckets and traded the day's news, which traveled even faster than the water.
+"The building can *burn*?" Kichi squeaked, hauling the heavy ledger-chest onto the handcart.
 
-The second was fire. In a city of wood and paper, where every lamp was a flame, fires bloomed so often that Edoites, who joked about everything, called them "the flowers of Edo." Kichi's grandmother remembered the terrible year when a great fire had eaten more than half the city — even the castle's tall tower, which was never rebuilt. So watchmen stood on ladder-towers day and night, sniffing the wind. At the first smoke came the alarm bell, and the fire brigades of the great lords ran through the streets under their banners — not to spray water, of which there was never enough, but to pull down houses in the fire's path, so the flames arrived at their own party to find nothing left to burn. Houses here were built knowing they might be unbuilt in a hurry, and rebuilt in a week. The city was like grass: it burned, it grew back greener.
+"Buildings grow back," said the clerk. "This whole city has burned and grown back more times than you have teeth. Why do you think we joke about it? Fires and quarrels are the flowers of Edo, we say. A terrible joke. We're a city that laughs so it doesn't cry. My own grandmother lived through the great fire, the Meireki fire — half the city gone, the castle's tall tower gone, and that one was never rebuilt. Now move."
 
-And nothing — *nothing* — in Edo was wasted. Old paper was bought, mashed, and made into new paper. Candle stubs were melted into new candles. Ashes from the stoves were sold to dyers, worn-out kimonos to the used-clothes men, and even what the city's million people left in the privies each day was bought — yes, bought, for good money — by farmers, who carted it out to the fields to feed the vegetables that came back into the city as pickles. The head clerk called this the great wheel of Edo, and said that a city that wastes nothing can grow forever.
+Outside, the street was a river of people and handcarts, moving fast but — Kichi noticed with amazement — hardly anyone screaming. Neighbors counted each other's children. An old woman directed traffic with a broom. Half a million commoners lived packed into these low wards by the water, and it was as if the whole crowded city had rehearsed.
 
-At dusk, Kichi closed the shutters — *rattle, bang* — and ate his rice and pickles. On the way to the bathhouse he passed the lantern-lighter, and watched the low town come alight, lantern by lantern by lantern, until every street was a string of small warm moons.
+Then came the firemen.
 
-Later, scrubbed pink and yawning, he lay down on his thin futon in the shop's back room. Far off, a dog barked — safely, for by the Shogun's own solemn law, no one in Edo was allowed to harm so much as a stray dog, which the dogs all seemed to know. The night watchman walked the alley, knocking his two wooden clappers together, *tok, tok*: all is well, fires sleeping, city sleeping.
+They came at a run under their banner, and the crowd squeezed aside to let them through — one of the great lords' fire brigades, for the lords kept brigades the way they kept soldiers, and this was their war. Kichi had seen firemen swagger past on ordinary days. He had never seen them work.
 
-A million people, thought Kichi, and just this once he thought of them all: samurai on the hill, actors backstage, the tofu man with his song, the water in the wooden pipes under the streets, all of them breathing quietly together in the dark, like one enormous friendly animal.
+"Why are they climbing *that* house?" he shouted. "It isn't burning!"
 
-*Tok, tok.* All is well.
+"Watch," said the clerk.
 
-Kichi slept.
+The firemen swarmed onto the roofs of the houses in the fire's path — and began tearing them down. Hooks and axes, ropes and bare hands; walls folded, roofs slid, whole houses came apart before the flames ever reached them.
+
+"There's no water in the world enough to drown a fire like that," the clerk said, as they pushed the cart. "So we don't fight it with water. We take away its food. The fire arrives at its own feast and finds the table cleared. That gap they're making — the fire will starve at it."
+
+"But those people's *houses*—"
+
+"Will be rebuilt within the month, by all of us, and their timber's half saved besides. Houses here are built knowing they may be unbuilt in a hurry. Grass burns," the clerk said, "and grass grows back. Edo is grass."
+
+They stood the night in the safe-ground by the river with the ledgers and the cloth and the cook's best pots, watching the glow to the north, and the clerk — who seemed to know Kichi needed talking to as much as a blanket — talked.
+
+He talked about the city they were saving: how it drank from rivers far away in the hills, the water traveling along a channel dug fifty years back by two clever brothers, then running under the streets through pipes made of hollowed wood, rising up in the wells where the housewives gossiped every morning. How nothing in Edo was wasted — old paper mashed into new paper, candle stubs melted into new candles, ashes sold to the dyers, worn kimonos to the used-clothes men, and even what the city's million people left in the privies each morning sold — sold! for good money! — to farmers who carted it out to feed the vegetable fields.
+
+"A city that wastes nothing," the clerk said, "can grow forever. A million people, boy. Maybe the most in the world. More than London, more than Paris — wherever those are."
+
+"And half of them samurai," Kichi said, to show he knew things too. "Up on the hills."
+
+"Half of them samurai," the clerk agreed, "who haven't fought a war in nearly a hundred years, and file papers all day, poor souls, while we merchants quietly get on with running the place. Don't repeat that."
+
+Toward dawn, the wind swung east, and the word came down the street like water down a dry ditch: *the gap held.* The fire had starved exactly where the firemen had cleared, three whole wards short of the bridge.
+
+They hauled everything home again. The shop stood untouched. The master, gray-faced and happy, declared a holiday until noon — which in merchant language meant everyone worked, but slowly.
+
+And at midday, the clerk put four small coins in Kichi's hand — sixteen mon, the price of a bowl — and walked him to the soba stall on the corner, where they slurped their noodles standing up, as loudly as possible, which is the correct way, while the street cried its ordinary songs around them: the tofu-seller's song, the clam-seller's, the goldfish man's, every trade with its own little tune, so a blind man could shop by ear in Edo, and often did.
+
+"You did well, small one," the clerk said. "Ledgers first. You'll make a merchant yet."
+
+That evening, scrubbed pink at the bathhouse, Kichi lay on his futon and listened to the city put itself to bed: the last geta clacking over the bridge, a dog barking — safely, for by the shogun's own solemn law nobody in Edo might harm so much as a stray dog, which the dogs all seemed to know — and to the north, faint and steady, the sound of saws and hammers, where a burned ward was already growing back.
+
+The night watchman came down the alley, knocking his wooden clappers. *Tok, tok.* All is well. Fires sleeping. City sleeping.
+
+Grass grows back, thought Kichi, nearly asleep. A million blades of it, breathing quietly together in the dark.
+
+*Tok, tok.*
+
+He slept.
 
 ## What's true in this story
 
-- Kichi, his shop, and his head clerk are invented, but boys really did enter merchant shops as live-in apprentices around age ten, and their duties — shutters, sweeping, errands, abacus — are well documented.
-- Around 1700, in the Genroku era, Edo really did hold roughly a million people and was possibly the largest city on Earth. Roughly half its people were samurai and their households — the result of the "alternate attendance" law that required every lord to live in Edo every other year, arriving in grand processions.
-- Japan really had been at peace for nearly a century (the Tokugawa peace lasted over 250 years), and Genroku Edo's merchant culture — kabuki theater, cheap woodblock prints, lending libraries, soba stalls where a bowl cost about sixteen mon — is real and famous. (Sushi as we know it came a century later, so Kichi eats noodles.)
-- Street vendors really sold everything with distinctive cries and songs, and time was told by temple bells.
-- The water system is real: the Tamagawa aqueduct, dug in the 1650s by the Tamagawa brothers, ran over forty kilometers, and water reached neighborhood wells through underground wooden pipes — one of the largest city water systems in the premodern world.
-- Fires really were called "the flowers of Edo," and the Great Meireki Fire of 1657 destroyed most of the city and the castle keep, which was never rebuilt. In 1700 firefighting was done mainly by the lords' brigades, who fought fire by tearing down buildings to make firebreaks. (The famous tattooed townsmen's brigades came a couple of decades later.)
-- Edo's recycling is real and astonishing: paper, wax, ash, and old clothes were all bought and reused, and farmers genuinely paid householders for night soil to fertilize the fields — one reason Edo was far cleaner than European capitals of the same era.
-- Many townsmen's children really could read, thanks to temple schools (terakoya); Japan's literacy was among the highest in the premodern world. And the Shogun Tsunayoshi's "Laws of Compassion" really did protect stray dogs — Edoites found it as funny, and as inconvenient, as Kichi's dog seems to.
+- Kichi, the clerk, and the shop are invented, but boys really did enter merchant shops as live-in apprentices around age ten, and saving the ledgers and account books first in a fire was real merchant practice.
+- Around 1700, in the Genroku era, Edo really held roughly a million people and was possibly the largest city on Earth — about half samurai households, drawn there by the law requiring every lord to live in Edo in alternate years, and half merchants, artisans, and laborers packed into the low town.
+- Fires really were called "the flowers of Edo" ("fires and quarrels are the flowers of Edo," went the saying), and the Great Meireki Fire of 1657 destroyed most of the city, killed perhaps a hundred thousand people, and burned the castle keep, which was never rebuilt.
+- Firefighting around 1700 was done mainly by the great lords' brigades, and they really fought fire chiefly by tearing down buildings in its path to make firebreaks — starving the flames rather than dousing them. The famous tattooed townsmen's brigades came a couple of decades later. Houses were genuinely built to be pulled apart and rebuilt fast.
+- The water system is real: the Tamagawa aqueduct, dug in the 1650s by the Tamagawa brothers, ran over forty kilometers, feeding neighborhood wells through underground wooden pipes — one of the largest premodern city water systems in the world.
+- Edo's recycling is real and astonishing: paper, candle wax, ash, and old clothes were all bought and resold, and farmers genuinely paid for night soil to fertilize the fields — one reason Edo was far cleaner than the European capitals of its day.
+- Street vendors really sold everything with their own distinctive cries and songs; soba really cost about sixteen mon a bowl (sushi as we know it came a century later); many townsmen's children could read thanks to temple schools; and the shogun Tsunayoshi's "Laws of Compassion" really did protect stray dogs — Edoites found the law as funny, and as inconvenient, as Kichi's dog seems to.

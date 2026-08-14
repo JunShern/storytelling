@@ -12,11 +12,11 @@ time:
   display: c. 830 CE
   era: Islamic Golden Age
 event: The translation movement and the House of Wisdom in Baghdad under Caliph al-Ma'mun.
-reading_time_minutes: 8
+reading_time_minutes: 9
 generation:
   model: claude-fable-5
-  prompts: v1
-  date: 2026-08-12
+  prompts: v2
+  date: 2026-08-14
   method: in-session
 sources:
   - https://en.wikipedia.org/wiki/House_of_Wisdom
@@ -27,46 +27,80 @@ sources:
   - https://en.wikipedia.org/wiki/Hunayn_ibn_Ishaq
 ---
 
-A long time ago — more than a thousand years before tonight — there was a boy named Salim who lived in the biggest city in the world.
+## Before we begin
 
-The city was called Baghdad, the City of Peace. Salim's grandfather liked to tell how it had been built in a perfect circle, with three great rings of walls and four gates, one facing each corner of the world. If you walked out of the Kufa Gate you would eventually reach the holy cities of the south. If you walked out of the Khurasan Gate, and kept walking for months and months, you would reach the mountains at the edge of China. By Salim's time the city had grown far beyond its old round walls, spilling along both banks of the wide brown river Tigris, and so many people lived there — hundreds of thousands — that no one had ever managed to count them all.
+Tonight's story takes place in Baghdad, the capital of the country we now call Iraq — but almost twelve hundred years ago, when it was the biggest city in the world. A few words to tuck in your pocket before we start. The city's ruler was the *caliph* (KAY-liff) — a kind of emperor. The wide river running through the city is the *Tigris* (TY-griss). A *scholar* is someone whose whole job is learning, and the caliph kept a famous library people called the House of Wisdom. And you'll meet the name *al-Khwarizmi* (al-KWAR-iz-mee) — a real mathematician whose book gave us the word "algebra." Ready? Here we go.
 
-Salim's father was a papermaker.
+## The story
 
-Now, you may think paper is an ordinary thing. But in those days, in most of the world, it was not. In the lands of the west, people still wrote on stretched animal skin, which was so costly that a single book was worth as much as a house. But Baghdad had learned a secret that had traveled all the way along the roads from China: how to soak old linen rags into a soup of soft threads, spread them thin on a screen, and press them into sheets — smooth, pale, wonderful sheets that drank in ink and never let it go.
+Salim's father held the wrapped bundle out with both hands, the way you hand someone an egg.
 
-"That is the beauty of it," Salim's father said, holding a fresh sheet up to the light. "On skin, a cheat can scrape a word away and write a new one. But paper keeps every word safe. That is why the caliph's clerks will buy all we can make."
+"One hundred sheets," he said. "The whitest paper this workshop has ever made. Yusuf the bookseller is buying it for the caliph's own library. And you, Salim, are going to carry it across the city without letting anything — anything — happen to it."
 
-Every week, Salim loaded a donkey with paper and led it through the morning streets to the market of the booksellers — the Suq al-Warraqin. It was his favorite place in the world. More than a hundred little shops leaned against each other in the shade, and in every one of them, something was happening to words. Here a copyist sat cross-legged, writing out a book of poems in handwriting as fine as embroidery. There a binder stitched pages together and smoothed leather covers with a bone tool. And everywhere there were readers — old men, young women, students, sea captains — turning pages, arguing gently, reading lines aloud to anyone who would listen.
+"What could happen to it?" Salim asked.
 
-The bookseller Salim knew best was called Yusuf, and Yusuf bought paper for a very particular customer: the palace of the caliph himself.
+"In Baghdad?" His father laughed. "Everything happens in Baghdad."
 
-"The Commander of the Faithful, al-Ma'mun," Yusuf said one day, tapping the stack of paper, "is gathering books the way other kings gather gold. He has a great library — some call it the House of Wisdom. His messengers ride to distant cities asking for books in Greek, books in Persian, books from India. And then, Salim, do you know what happens?"
+You may wonder why anyone would fuss so much over paper. But in those days, paper was nearly magic. In the lands far to the west, people still wrote on stretched animal skin, so costly that one book was worth as much as a house. Baghdad had learned a secret that had traveled the long roads from China: how to soak old linen rags into a soup of soft threads and press them into smooth pale sheets that drank in ink and never let it go.
 
-Salim shook his head.
+"Remember why the clerks love it," his father said, tapping the bundle. "Ink on skin can be scraped away by a cheat. Ink on paper is forever. Now go — and walk, don't run."
 
-"Scholars turn them into Arabic, so that everyone here can read them. And here is the wonder of it: the man translating a Greek book of medicine may be a Christian. The man checking the stars may be from Persia. The numbers may come from India, by way of a book that traveled here on a camel. Muslims, Christians, Jews — in the workshops of this city they pass knowledge from hand to hand like a bowl of dates." He laughed. "People even say one translator was paid the weight of his finished books in gold. I don't know if it's true. But it's the kind of story this city likes to tell, and that tells you something too."
+Salim walked. He walked past the water-sellers and the date stalls, along streets that curved because the whole heart of the city had been built as a perfect circle — the Round City, his grandfather called it, with three rings of walls and four great gates facing the four corners of the world. The city had long since spilled over its old circle, growing along both banks of the Tigris until no one could count its people anymore. Hundreds of thousands, some said. More, said others.
 
-It was in Yusuf's shop that Salim first heard of the mathematician al-Khwarizmi, who worked for the caliph. Al-Khwarizmi had written a book about a way of solving puzzles with numbers — how to divide an inheritance fairly among brothers and sisters, how to measure a field, how to balance what is owed against what is paid. He called his method *al-jabr*, which means something like "restoring the balance." He wrote it all out patiently in ordinary words, so that ordinary people could follow it step by step.
+The trouble came at the bridge.
 
-"Step by step," Yusuf repeated, raising a finger. "That is the whole trick of it. Any hard thing in the world can be done, if you find the steps and take them one at a time."
+It was a bridge of boats, planks laid across barges, and it bucked gently underfoot like a sleepy camel. Halfway across, a porter's donkey decided it had strong opinions about bridges. It swung its load; the load swung Salim; and the bundle leapt out of his arms like a live fish.
 
-Some evenings, when the paper was delivered and the donkey was unloaded, Salim would climb to the flat roof of his house and look out over the city as it cooled. Swallows stitched the pink sky. The river turned to a ribbon of copper. And on a rooftop across the water, in the quarter called Shammasiyya, he could sometimes see small figures beside strange instruments of brass rings and marked circles, waiting for the dark.
+He caught it — at the very edge, one knee down, heart hammering — but the wrapper had torn, and the wind, smelling opportunity, peeled off the top sheet and sailed it out over the brown water. Then, cruelly, it dropped a second sheet face-down on the muddy planks.
 
-They were the caliph's astronomers. Night after night they measured the wandering of the moon and the slow wheel of the stars, writing everything down — on paper, Salim thought proudly, perhaps on my paper. His father said the caliph had even sent astronomers far out onto a flat plain in the north, to measure how big the whole Earth was. They had paced out the distance under one degree of sky, multiplied it patiently — step by step, like al-Khwarizmi — and come home with an answer for the size of the world.
+A boatman fished nothing from the river. The sheet was gone. Salim peeled the other from the mud and nearly cried. A great gray smear covered its corner.
 
-The stars came out over Baghdad, the same stars that shone on China and on the cold lands of the west. Somewhere below, in the lamplit rooms of the city, a Christian scholar was choosing the right Arabic word for a Greek one; a binder was pressing a new book flat for the night; a clerk was writing the day's last line, and the paper was drinking the ink and keeping it safe.
+"Ninety-eight," he whispered. "I was given a hundred, and I am bringing ninety-eight."
 
-Salim yawned. One day, he thought, I will make a sheet of paper so fine that the caliph's own librarian will ask who made it. And a scholar will write something on it that no one has ever thought before, and someone not yet born, in some city not yet built, will read it.
+He walked the rest of the way like a boy going to a funeral — through the booksellers' market, the Suq al-Warraqin, which on any other day was his favorite place alive: a hundred small shops leaning together in the shade, copyists writing in handwriting fine as embroidery, binders stitching pages, students arguing gently over open books. Today he saw none of it.
 
-He went down the stairs to his sleeping mat. The city murmured its night sounds — the river against the boats, a far-off song, the watchman's slow footsteps. And like a word written in good ink on good paper, Salim was held safely, all night long, by the City of Peace.
+Yusuf the bookseller unwrapped the bundle, looked at the mud-smeared sheet, looked at Salim's face, and did not shout.
+
+"Tell me what happened," he said. "All of it, in order."
+
+Salim told him. The donkey. The wind. The river.
+
+"Hm." Yusuf turned to the man sitting cross-legged in the corner of the shop, a scholar in a scholar's turban who had been examining the paper sheet by sheet. "What do you think? The palace ordered one hundred."
+
+"I think," said the scholar, "that this is a problem, and problems are my trade." He smiled at Salim. "I work in the caliph's library. Do you know what we do there? Books come to us in Greek, in Persian, from as far away as India, and we turn them into Arabic so everyone here can read them. A book of medicine, translated by a Christian. Star-tables checked by a Persian. Numbers from India that came here on a camel's back. Knowledge passes hand to hand like a bowl of dates, and nobody minds whose hand it is."
+
+"There is even a story," Yusuf put in, "that the caliph pays one translator the weight of his finished books in gold. I've never weighed the man's books, mind you. But it's the kind of story this city likes telling, and that tells you something too."
+
+"But I lost two sheets," Salim said miserably.
+
+"So we have a problem," said the scholar. "And there is a man at the library — al-Khwarizmi, the mathematician — who taught me how problems are beaten. Not with worry. With steps. He wrote a whole book of it: how to split an inheritance fairly, how to measure a field, how to balance what is owed against what is paid. Step by step, in plain words, so that any honest person can follow. He calls his method *al-jabr* — restoring the balance. So. Step one: how many perfect sheets?"
+
+They counted together, all three of them. Ninety-eight.
+
+"Step two: what does the palace truly need this month?" Yusuf checked his ledger. "Ninety for the new star-tables. The astronomers at Shammasiyya have been measuring the sky every night — moon, stars, all of it written down. The caliph even sent men to a flat plain in the north to work out the size of the whole round Earth. Paced it, measured it, multiplied it. Step by step."
+
+"Then ninety-eight is more than enough," said the scholar, "and your father's workshop fills the rest with next month's batch. Balance restored." He picked up the mud-smeared sheet and turned it in the light. "And this one I'll buy myself, at half price."
+
+Salim blinked. "It's spoiled."
+
+"The corner is spoiled. The rest is where I'll do my rough figuring — my mistakes, my crossings-out, my almosts." He tucked it under his arm. "Boy, every clean page of mathematics is built on a muddy page underneath. Remember that."
+
+Salim walked home light as the wind that had robbed him. He told his father everything, twice. And that evening they climbed to the flat roof, as they often did, and watched the city cool: swallows stitching the pink sky, the river turning to a ribbon of copper, and far across the water, on a rooftop in Shammasiyya, small figures setting up their instruments of brass rings, waiting for the dark.
+
+"They'll write tonight's stars on our paper," his father said.
+
+"On ninety of our sheets," said Salim, who had learned to be exact.
+
+The stars came out over Baghdad — the same stars that shone on China, where paper began, and on the cold lands of the west, where one day people would read all these books in yet other languages. Somewhere below, a copyist was finishing a last line, and the paper was drinking the ink and keeping it safe forever.
+
+Salim yawned, went down to his sleeping mat, and was asleep before the watchman's footsteps had passed the door — held, all night long, like a word written in good ink, by the City of Peace.
 
 ## What's true in this story
 
-- Salim, his father, and Yusuf the bookseller are invented — but papermakers, booksellers, and copyists like them were real, and the booksellers' market (the Suq al-Warraqin) really had a hundred or more shops.
+- Salim, his father, Yusuf, and the scholar are invented — but papermakers, booksellers, and copyists like them were real, and the booksellers' market (the Suq al-Warraqin) really had a hundred or more shops. Bridges of boats really crossed the Tigris.
 - Baghdad was founded in 762 CE by the Caliph al-Mansur as a perfectly round city with three ring walls and four gates, officially named Madinat al-Salam — the City of Peace. By the 800s it had grown far beyond the round walls and was one of the largest cities in the world, home to several hundred thousand people.
 - Papermaking really did arrive from China along the trade roads through Central Asia, and Baghdad had paper mills by the 790s. Paper was far cheaper than parchment, and clerks valued it because ink soaked in and could not be scraped away and forged.
 - Caliph al-Ma'mun (who ruled 813–833) kept a famous palace library that tradition calls the House of Wisdom. Historians today think it was a library and a circle of court scholars rather than a grand university — but the translation movement around it was real and enormous, turning Greek, Persian, Syriac, and Indian works into Arabic over about two centuries.
-- The translators genuinely came from many faiths — Muslims, Christians, Jews, and others worked side by side. The story that the translator Hunayn ibn Ishaq was paid the weight of his books in gold is a legend people told, so the story tells it that way too.
+- The translators genuinely came from many faiths — Muslims, Christians, Jews, and others worked side by side. The story that one translator, Hunayn ibn Ishaq, was paid the weight of his books in gold is a legend people told — so Yusuf tells it that way.
 - Al-Khwarizmi was a real mathematician at al-Ma'mun's court. His book on *al-jabr* (written around 820 CE) gave us the word "algebra," and the Latin version of his name gave us the word "algorithm." He wrote his mathematics out in words, step by step, for practical problems like inheritances — the notation with x's came centuries later.
-- Al-Ma'mun's astronomers really observed from the Shammasiyya quarter of Baghdad around 829–830, using naked-eye instruments like astrolabes and quadrants — among the first state observatories anywhere. And the expedition to measure a degree of latitude on the plain of Sinjar, to work out the size of the Earth, really happened. Educated people in 830 knew perfectly well that the Earth is a sphere.
+- Al-Ma'mun's astronomers really observed the sky from the Shammasiyya quarter around 829–830 with naked-eye instruments — among the first state observatories anywhere — and his expedition to the plain of Sinjar really did measure a degree of latitude to work out the size of the Earth. Educated people in 830 knew perfectly well that the Earth is a sphere.

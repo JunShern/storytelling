@@ -19,6 +19,13 @@
       .filter(Boolean),
   );
 
+  const introParagraphs = $derived(
+    (story.intro ?? "")
+      .split(/\n\s*\n/)
+      .map((p) => p.trim())
+      .filter(Boolean),
+  );
+
   function onKeydown(e) {
     if (e.key === "Escape") onClose();
   }
@@ -38,6 +45,15 @@
       </div>
       <h2>{story.title}</h2>
     </header>
+
+    {#if introParagraphs.length}
+      <aside class="intro">
+        <div class="intro-label">☾ Before we begin</div>
+        {#each introParagraphs as p, i (i)}
+          <p>{@html inline(p)}</p>
+        {/each}
+      </aside>
+    {/if}
 
     <div class="body">
       {#each paragraphs as p, i (i)}
@@ -114,6 +130,30 @@
     margin: 0.35rem 0 1.4rem;
     font-size: 1.75rem;
     line-height: 1.25;
+  }
+  .intro {
+    background: rgba(226, 181, 99, 0.06);
+    border: 1px solid var(--gold-soft);
+    border-radius: 12px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 1.6rem;
+  }
+  .intro-label {
+    font-family: var(--sans);
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.5rem;
+  }
+  .intro p {
+    font-size: 0.98rem;
+    line-height: 1.7;
+    color: var(--ink-dim);
+    margin: 0 0 0.7em;
+  }
+  .intro p:last-child {
+    margin-bottom: 0;
   }
   .body p {
     font-size: 1.08rem;
