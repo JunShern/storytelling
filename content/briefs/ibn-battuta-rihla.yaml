@@ -1,0 +1,15 @@
+id: ibn-battuta-rihla
+place:
+  name: Fez (Morocco)
+  modern_country: Morocco
+  lat: 34.03
+  lng: -5.00
+  highlight: ["504"]
+time:
+  year: 1355
+  display: 1355 CE
+  era: Islamic Golden Age
+event: >
+  Old Ibn Battuta, who traveled for thirty years across Africa and Asia,
+  dictates his memoirs to a young scribe who privately thinks he is making
+  it all up — until the details start checking out.

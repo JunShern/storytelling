@@ -1,0 +1,15 @@
+id: kitty-hawk-twelve-seconds
+place:
+  name: Kitty Hawk, North Carolina
+  modern_country: United States
+  lat: 36.02
+  lng: -75.67
+  highlight: ["840"]
+time:
+  year: 1903
+  display: 1903 CE
+  era: Dawn of Flight
+event: >
+  John Daniels, a lifeguard who has never seen a camera or a flying machine,
+  is handed a camera and told to squeeze the bulb if anything interesting
+  happens. Told as his sworn testimony.

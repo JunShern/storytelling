@@ -1,0 +1,15 @@
+id: silk-road-thread
+place:
+  name: Chang'an & the Silk Road
+  modern_country: China
+  lat: 34.34
+  lng: 108.94
+  highlight: ["156"]
+time:
+  year: -100
+  display: c. 100 BCE
+  era: Han Dynasty
+event: >
+  A bolt of silk travels from a Chinese weaver's hands through deserts,
+  mountains, and bazaars to distant Rome — passed hand to hand across the
+  whole known world. Told from the silk's point of view.

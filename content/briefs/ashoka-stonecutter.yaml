@@ -1,0 +1,15 @@
+id: ashoka-stonecutter
+place:
+  name: Kalinga (India)
+  modern_country: India
+  lat: 20.19
+  lng: 85.84
+  highlight: ["356"]
+time:
+  year: -250
+  display: c. 250 BCE
+  era: Maurya Empire
+event: >
+  After the terrible Kalinga war, Emperor Ashoka renounces conquest and has
+  his message of peace carved on rocks across India — by stonecutters who
+  wonder if an emperor can mean it.

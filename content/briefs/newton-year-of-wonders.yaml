@@ -1,0 +1,15 @@
+id: newton-year-of-wonders
+place:
+  name: Woolsthorpe (England)
+  modern_country: United Kingdom
+  lat: 52.81
+  lng: -0.63
+  highlight: ["826"]
+time:
+  year: 1666
+  display: 1666 CE
+  era: Scientific Revolution
+event: >
+  Cambridge closes for the plague, and 23-year-old Isaac Newton goes home to
+  his mother's farm — where, alone in an orchard with too much time to
+  think, he quietly begins to invent modern physics. Told from inside his head.

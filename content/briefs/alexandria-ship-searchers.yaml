@@ -1,0 +1,15 @@
+id: alexandria-ship-searchers
+place:
+  name: Alexandria
+  modern_country: Egypt
+  lat: 31.20
+  lng: 29.92
+  highlight: ["818"]
+time:
+  year: -245
+  display: c. 245 BCE
+  era: Ptolemaic Egypt
+event: >
+  Every ship docking at Alexandria is searched — not for gold, but for books
+  to copy for the Great Library. A librarian's apprentice hunts the harbor
+  for a rumored scroll.

@@ -1,0 +1,15 @@
+id: yalta-interpreter
+place:
+  name: Yalta (Crimea)
+  modern_country: Ukraine
+  lat: 44.47
+  lng: 34.14
+  highlight: ["804"]
+time:
+  year: 1945
+  display: February 1945
+  era: End of World War II
+event: >
+  A junior interpreter sits close enough to touch three of the most powerful
+  men alive — Churchill, Roosevelt, Stalin — as they redraw the world, and
+  learns that great men are also just tired old men in a room.

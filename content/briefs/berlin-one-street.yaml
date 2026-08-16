@@ -1,0 +1,15 @@
+id: berlin-one-street
+place:
+  name: Berlin
+  modern_country: Germany
+  lat: 52.52
+  lng: 13.40
+  highlight: ["276"]
+time:
+  year: 1989
+  display: 9 November 1989
+  era: End of the Cold War
+event: >
+  A grandmother in the East and her grandson in the West have gone to sleep
+  on opposite sides of the Wall their whole lives. Tonight, a bungled press
+  conference opens the gates. Two halves of one night, converging.

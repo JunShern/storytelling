@@ -1,0 +1,15 @@
+id: tubman-north-star
+place:
+  name: Maryland to the North (USA)
+  modern_country: United States
+  lat: 38.46
+  lng: -76.07
+  highlight: ["840"]
+time:
+  year: 1854
+  display: c. 1854 CE
+  era: Antebellum America
+event: >
+  A child is led north to freedom along the Underground Railroad by a small,
+  iron-willed woman the whispers call Moses — Harriet Tubman — navigating
+  by the North Star.

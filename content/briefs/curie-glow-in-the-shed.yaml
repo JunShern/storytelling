@@ -1,0 +1,15 @@
+id: curie-glow-in-the-shed
+place:
+  name: Paris
+  modern_country: France
+  lat: 48.84
+  lng: 2.35
+  highlight: ["250"]
+time:
+  year: 1902
+  display: 1902 CE
+  era: Age of Science
+event: >
+  Little Irene Curie's parents work in a leaky shed on something invisible —
+  and some evenings her mother takes her to see the vials glowing on the
+  shelves like captive fireflies. A discovery through a daughter's eyes.

@@ -1,0 +1,14 @@
+id: punt-expedition
+place:
+  name: Thebes & the Red Sea (Egypt)
+  modern_country: Egypt
+  lat: 25.72
+  lng: 32.61
+  highlight: ["818"]
+time:
+  year: -1470
+  display: c. 1470 BCE
+  era: New Kingdom Egypt
+event: >
+  Pharaoh Hatshepsut — a woman ruling as king — sends a fleet to the fabled
+  land of Punt for living incense trees. Told as a ship's log.

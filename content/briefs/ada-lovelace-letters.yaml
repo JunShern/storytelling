@@ -1,0 +1,15 @@
+id: ada-lovelace-letters
+place:
+  name: London
+  modern_country: United Kingdom
+  lat: 51.52
+  lng: -0.12
+  highlight: ["826"]
+time:
+  year: 1843
+  display: 1843 CE
+  era: Victorian Britain
+event: >
+  Ada Lovelace exchanges letters with Charles Babbage about his unbuilt
+  thinking machine — and sees, before anyone alive, what computers might
+  one day become. Told in their letters.

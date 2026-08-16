@@ -1,0 +1,15 @@
+id: sejong-alphabet
+place:
+  name: Hanseong (Seoul), Korea
+  modern_country: South Korea
+  lat: 37.57
+  lng: 126.98
+  highlight: ["410"]
+time:
+  year: 1443
+  display: 1443 CE
+  era: Joseon Korea
+event: >
+  King Sejong unveils a new alphabet so simple "a wise man can learn it in
+  a morning" — designed so common people can finally read. A palace kitchen
+  girl becomes one of the first to try.

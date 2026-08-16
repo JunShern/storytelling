@@ -1,0 +1,15 @@
+id: inca-royal-road
+place:
+  name: The Andes (Inca Empire)
+  modern_country: Peru
+  lat: -13.52
+  lng: -71.97
+  highlight: ["604"]
+time:
+  year: 1500
+  display: c. 1500 CE
+  era: Inca Empire
+event: >
+  An urgent message must cross the Andes by the chasqui relay — runners
+  posted along mountain roads, each carrying it a few miles at a sprint.
+  The story passes from runner to runner like a baton.

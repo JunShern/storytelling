@@ -1,0 +1,15 @@
+id: galileo-starry-messenger
+place:
+  name: Padua (Italy)
+  modern_country: Italy
+  lat: 45.41
+  lng: 11.88
+  highlight: ["380"]
+time:
+  year: 1610
+  display: 1610 CE
+  era: Scientific Revolution
+event: >
+  Night by night, Galileo points his new telescope at Jupiter and watches
+  four little stars move — and realizes not everything circles the Earth.
+  Told as his observation diary.

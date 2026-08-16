@@ -1,0 +1,15 @@
+id: vindolanda-birthday
+place:
+  name: Vindolanda (Roman Britain)
+  modern_country: United Kingdom
+  lat: 54.99
+  lng: -2.36
+  highlight: ["826"]
+time:
+  year: 100
+  display: c. 100 CE
+  era: Roman Britain
+event: >
+  At a windy fort on Rome's northern frontier, a commander's wife writes to
+  invite her dearest friend to her birthday party — a real letter, found
+  1,900 years later in the mud. Told in letters.
