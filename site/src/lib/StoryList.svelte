@@ -1,13 +1,17 @@
 <script>
-  let { stories, onOpenStory, showPlace = false } = $props();
+  let { stories, onOpenStory } = $props();
 </script>
 
 <div class="list">
   {#if !stories.length}
     <p class="empty">No stories here yet — the library is still growing.</p>
   {/if}
-  {#each stories as s (s.id)}
-    <button class="card" onclick={() => onOpenStory(s)}>
+  {#each stories as s, i (s.id)}
+    <button
+      class="card"
+      style="--i: {Math.min(i, 10)}"
+      onclick={() => onOpenStory(s)}
+    >
       <div class="meta">
         <span class="when">{s.time.display}</span>
         <span class="where">{s.place.name}</span>
@@ -38,6 +42,19 @@
     transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
     display: block;
     width: 100%;
+    opacity: 0;
+    animation: card-in 0.5s ease-out forwards;
+    animation-delay: calc(var(--i) * 0.05s);
+  }
+  @keyframes card-in {
+    from {
+      opacity: 0;
+      transform: translateY(7px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
   }
   .card:hover {
     border-color: var(--gold-soft);
@@ -77,5 +94,12 @@
     font-family: var(--sans);
     font-size: 0.72rem;
     color: var(--ink-dim);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .card {
+      animation: none;
+      opacity: 1;
+    }
   }
 </style>

@@ -17,7 +17,11 @@
 <div class="timeline" aria-label="Timeline of stories">
   <div class="track"></div>
   {#each TICKS as tick (tick)}
-    <div class="tick" style="left: {yearToT(tick) * 100}%">
+    <div
+      class="tick"
+      class:minor={![-3000, 0, 1000, 1500, 2000].includes(tick)}
+      style="left: {yearToT(tick) * 100}%"
+    >
       <div class="tick-mark"></div>
       <div class="tick-label">{formatYear(tick)}</div>
     </div>
@@ -115,5 +119,16 @@
   }
   .dot-wrap:hover .dot-label {
     opacity: 1;
+  }
+
+  /* On narrow screens the compressed right end gets crowded — keep only the
+     anchor ticks legible and enlarge the dots' tap area. */
+  @media (max-width: 860px) {
+    .tick.minor .tick-label {
+      display: none;
+    }
+    .dot-wrap {
+      padding: 11px;
+    }
   }
 </style>

@@ -1,5 +1,11 @@
 <script>
+  import { fade, fly } from "svelte/transition";
+
   let { story, onClose } = $props();
+
+  const reduceMotion =
+    typeof window !== "undefined" &&
+    window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // Minimal, safe markdown-inline rendering: escape HTML, then *em* / **strong**.
   function inline(text) {
@@ -35,8 +41,18 @@
 <svelte:body style:overflow="hidden" />
 
 <!-- svelte-ignore a11y_click_events_have_key_events, a11y_no_static_element_interactions -->
-<div class="scrim" onclick={(e) => e.target === e.currentTarget && onClose()}>
-  <div class="reader" aria-modal="true" role="dialog" aria-label={story.title}>
+<div
+  class="scrim"
+  transition:fade={{ duration: reduceMotion ? 0 : 220 }}
+  onclick={(e) => e.target === e.currentTarget && onClose()}
+>
+  <div
+    class="reader"
+    in:fly={{ y: reduceMotion ? 0 : 26, duration: reduceMotion ? 0 : 380 }}
+    aria-modal="true"
+    role="dialog"
+    aria-label={story.title}
+  >
     <button class="close" onclick={onClose} aria-label="Close story">✕</button>
 
     <header>
